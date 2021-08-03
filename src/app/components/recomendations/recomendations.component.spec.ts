@@ -21,5 +21,5 @@ describe('RecomendationsComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
-  // #dsajf
+  // #dsajf2
 });
